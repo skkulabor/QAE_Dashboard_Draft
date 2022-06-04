@@ -5,7 +5,7 @@
   
 ## Flex Dashboard
 - [Dashboard 1](./file/QAE_Dashboard_Draft.html)
-- [Dashboard 2](.\QAE_Dashboard_Draft (2).html)
+- [Dashboard 2](QAE_Dashboard_Draft%20(2).html)
 - [Dashboard 3](QAE_Dashboard_Draft.html)
 - [Dashboard 4]("QAE_Dashboard_Draft (4).html")
 - [Dashboard 5](QAE_Dashboard_Draft (5).html)
