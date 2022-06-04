@@ -1,7 +1,7 @@
 # QAE Final Project - 1st Draft
 
 ## Shiny Dashboard
-- Dashboard at Shinyapps.io(https://lazyquant.shinyapps.io/eda_2022s_project/)
+- [Dashboard at Shinyapps.io](https://lazyquant.shinyapps.io/eda_2022s_project/)
   
 ## Flex Dashboard
 - [Dashboard 1](QAE_Dashboard_Draft (1).html)
