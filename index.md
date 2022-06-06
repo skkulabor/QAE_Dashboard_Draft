@@ -3,7 +3,7 @@
 ## Shiny Dashboard
 - [Dashboard 1 at Shinyapps.io](https://lazyquant.shinyapps.io/eda_2022s_project/)
 - [Dashboard 2 at Shinyapps.io](https://bororia.shinyapps.io/YBSMacroDB/)
-- [Dashboard 3 at Shinyapps.io] - To be updated on Monday
+- [Dashboard 3 at Shinyapps.io](https://ehanbae.shinyapps.io/eda_2022s_project/)
 
 ## Flex Dashboard
 - [Dashboard 1](QAE_Dashboard_Draft%20(1).html)
