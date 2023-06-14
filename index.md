@@ -1,6 +1,5 @@
 # QAE Final Project (2023. 6. 14일)
 
-## Flex Dashboard
 1. [Dashboard 1-1, Shiny](https://myeongkwon.shinyapps.io/final1/) & [Dashboard 1-2, Shiny](http://rpubs.com/qae2023/1054018)
 2. [Dashboard 2, Shiny](https://hozy09-ryeo0myung0kang.shinyapps.io/QAE2023_chatGPT/)
 3. [Dashboard 3]()
