@@ -2,7 +2,7 @@
 
 1. [Dashboard 1-1, Shiny](https://myeongkwon.shinyapps.io/final1/) & [Dashboard 1-2, Shiny](http://rpubs.com/qae2023/1054018)
 2. [Dashboard 2, Shiny](https://hozy09-ryeo0myung0kang.shinyapps.io/QAE2023_chatGPT/)
-3. [Dashboard 3](3.html) - 추후 업데이트 예정
+3. [Dashboard 3](3.html)
 4. [Dashboard 4, Shiny](https://finalproject-qae-dataanalysisbasic.shinyapps.io/finalProject/)
 5. [Dashboard 5](5.html)
 6. [Dashboard 6, Shiny](http://34.22.90.198/)
@@ -13,7 +13,7 @@
 11. [Dashboard 11](11.html)
 12. [Dashboard 12](12.html)
 13. [Dashboard 13, Shiny](https://james-s-lee.shinyapps.io/2023SeoulRealEstateDashboard/)
-14. [Dashboard 14](14.html)
+14. [Dashboard 14](14.html) - 대시보드 제작 중간 결과물 제출
 15. [Dashboard 15](15.html)
 16. [Dashboard 16, Shiny](https://jeongyeonquant.shinyapps.io/shiny1/)
 17. [Dashboard 17](17.html)
