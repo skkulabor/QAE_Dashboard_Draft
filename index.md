@@ -3,7 +3,7 @@
 1. [Dashboard 1-1, Shiny](https://myeongkwon.shinyapps.io/final1/) & [Dashboard 1-2, Shiny](http://rpubs.com/qae2023/1054018)
 2. [Dashboard 2, Shiny](https://hozy09-ryeo0myung0kang.shinyapps.io/QAE2023_chatGPT/)
 3. [Dashboard 3](3.html)
-4. [Dashboard 4, Shiny](https://finalproject-qae-dataanalysisbasic.shinyapps.io/finalProject/)
+4. [Dashboard 4, Shiny](https://finalproject-qae-dataanalysisbasic.shinyapps.io/finalProject/) & [Dashboard 4 활용 사례 영상](4.mp3)
 5. [Dashboard 5](5.html)
 6. [Dashboard 6, Shiny](http://34.22.90.198/)
 7. [Dashboard 7](7.html)
